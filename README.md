@@ -252,4 +252,5 @@ instead...
 
 # Reference Material
 
+- the internetz
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f
